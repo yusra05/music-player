@@ -37,7 +37,7 @@ To get started with the project, follow these steps:
     npm install
 
 4. Start the development server:
-
+   ```bash
    npm run dev
 
 
