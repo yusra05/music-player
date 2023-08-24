@@ -29,11 +29,11 @@ To get started with the project, follow these steps:
    git clone https://github.com/yusra05/music-player.git
 
 2. Navigate to the project folder:
-
+   ```bash
    cd C:\Users\example\music-player
 
 3. Install dependencies:
-
+   ```bash
     npm install
 
 4. Start the development server:
