@@ -15,7 +15,7 @@ https://github.com/yusra05/music-player/assets/112852251/d6ef4be3-4fba-4bc7-b733
 <div style="display: flex; align-items: center;">
    <img src="https://github.com/yusra05/music-player/assets/112852251/7610e14f-bd5d-4fc0-93a8-9811673d87c6.png" alt="HTML5" width="50" height="50">
    <img src="https://github.com/yusra05/yusra05/assets/112852251/174f1b1c-0f10-4731-a92f-e0b33c4bb41f.png" alt="Tailwind CSS" width="50" height="50">
-  <img src="https://github.com/yusra05/music-player/assets/112852251/fec5c550-3e6b-4597-93f2-de38a471d979.png" alt="React" width="50" height="50">
+  <img src="https://github.com/yusra05/music-player/assets/112852251/99cac64b-3429-41fe-be9f-8468f09e340f.png" alt="React" width="50" height="50">  
 </div>
 
 
