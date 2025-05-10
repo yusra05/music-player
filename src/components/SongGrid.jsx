@@ -5,18 +5,18 @@ import { faArrowRight, faPlay, faPause, faPlus, faChartSimple, faEllipsis } from
 const SongGrid = () => {
   const songsCol1 = [
     // Replace with your song data for Column 1
-    { name: 'Worry About Us', artist: 'Rosie Lowe', icon: faPlay, image: 'src/assets/1.png'},
-    { name: 'Take a Chance (feat. Little Dragon)', artist: 'Else', icon: faPause, image: 'src/assets/2.png'},
-    { name: 'Control', artist: 'Else', icon: faChartSimple, image: 'src/assets/3.png'},
+    { name: 'Worry About Us', artist: 'Rosie Lowe', icon: faPlay, image: '1.png'},
+    { name: 'Take a Chance (feat. Little Dragon)', artist: 'Else', icon: faPause, image: '/2.png'},
+    { name: 'Control', artist: 'Else', icon: faChartSimple, image: '/3.png'},
     // Add more songs as needed
   ];
 
 
   const songsCol2 = [
     // Replace with your song data for Column 2
-    { name: 'Lorde Tama', artist: 'Else', icon: faChartSimple, image: 'src/assets/4.png'},
-    { name: 'Take a Chance (feat. Little Dragon)', artist: 'Else', icon: faPlay, image: 'src/assets/5.png'},
-    { name: 'Control', artist: 'Rosie Lowe', icon: faPlay, image: 'src/assets/6.jpg'},
+    { name: 'Lorde Tama', artist: 'Else', icon: faChartSimple, image: '/4.png'},
+    { name: 'Take a Chance (feat. Little Dragon)', artist: 'Else', icon: faPlay, image: '/5.png'},
+    { name: 'Control', artist: 'Rosie Lowe', icon: faPlay, image: '/6.jpg'},
     // Add more songs as needed
   ];
 

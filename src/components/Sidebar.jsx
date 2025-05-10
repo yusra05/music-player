@@ -11,7 +11,7 @@ const Sidebar = () => {
   return (
     <div className="bg-gradient-to-t from-customWhite via-customGray  to-customWhite  fixed top-0 left-0 w-[16%] h-full">
       <div className="flex ml-4">
-        <img src="/src/assets/logo.png" alt="Logo" className="w-24 h-16 mt-4 mr-4 lg:block hidden"/>
+        <img src="/logo.png" alt="Logo" className="w-24 h-16 mt-4 mr-4 lg:block hidden"/>
         <h2 className="mt-8  text-customBlue-1 text-xl font-bold">UI KIT</h2>
       </div>
       <h3 className="mt-4 ml-8 font-semibold text-gray-400 text-sm lg:block hidden">BROWSE MUSIC</h3>
