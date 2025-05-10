@@ -11,7 +11,7 @@ const Player = () => {
   return (
     <div className="flex items-center justify-between bg-white p-4">
       <div className="flex items-center space-x-4 flex-grow">
-        <img src="/src/assets/2.png" alt="song image" className="mr-4 w-10 h-10" />
+        <img src="/2.png" alt="song image" className="mr-4 w-10 h-10" />
         <div className="flex flex-col">
           <span className="text-black text-sm mr-2 font-bold lg:block hidden">Take a Chance (feat. Little Dragon)</span>
           <p className="text-gray-400 text-xs">Else</p>

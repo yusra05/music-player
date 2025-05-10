@@ -11,7 +11,7 @@ const Main = () => {
   
   return (
     <div className="bg-gradient-to-b from-customBlue  to-White text-white p-10 flex-1 ml-[16%]">
-      <div className="absolute lg:ml-[16%]  inset-0 z-0 bg-contain bg-no-repeat lg:block hidden bg-right" style={{ backgroundImage: "url('/src/assets/girl.png')" }}></div>
+      <div className="absolute lg:ml-[16%]  inset-0 z-0 bg-contain bg-no-repeat lg:block hidden bg-right" style={{ backgroundImage: "url('/girl.png')" }}></div>
 
       <div className="flex justify-between mb-8">
         <div className="flex items-center">
@@ -75,7 +75,7 @@ const Main = () => {
            href="/">
            <div className="pt-[100%] relative mb-4">
              <img
-               src="/src/assets/1.png"
+               src="/1.png"
                className="absolute inset-0 object-cover w-full h-full rounded shadow-xl"/>
                  <HeartButton/>
                  <PlayButton/>
@@ -93,7 +93,7 @@ const Main = () => {
            href="/">
              <div className="pt-[100%] relative mb-4">
                <img
-                src="/src/assets/2.png"
+                src="/2.png"
                 className="absolute inset-0 object-cover w-full h-full rounded shadow-xl"/>
               <HeartButton/>
               <PlayButton/>
@@ -111,7 +111,7 @@ const Main = () => {
             href="/">
             <div className="pt-[100%] relative mb-4">
               <img
-                src="/src/assets/6.jpg"
+                src="/6.jpg"
                 className="absolute inset-0 object-cover w-full h-full rounded shadow-xl"
               />
               <HeartButton/>
@@ -130,7 +130,7 @@ const Main = () => {
             href="/">
             <div className="pt-[100%] relative mb-4">
               <img
-                src="/src/assets/3.png"
+                src="/3.png"
                 className="absolute inset-0 object-cover w-full h-full rounded shadow-xl"
               />
              <HeartButton/>
@@ -149,7 +149,7 @@ const Main = () => {
               href="/">
               <div className="pt-[100%] relative mb-4">
                 <img
-                  src="/src/assets/4.png"
+                  src="/4.png"
                   className="absolute inset-0 object-cover w-full h-full rounded shadow-xl"
                 />
                 <HeartButton/>
@@ -167,7 +167,7 @@ const Main = () => {
                             href="/">
                <div className="pt-[100%] relative mb-4">
                  <img
-                   src="/src/assets/5.png"
+                   src="/5.png"
                    className="absolute inset-0 object-cover w-full h-full rounded shadow-xl"
                  />
                  <HeartButton/>
