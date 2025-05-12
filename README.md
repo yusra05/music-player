@@ -45,4 +45,4 @@ To get started with the project, follow these steps:
 
 ## Lisence
 
-This project is  under the MIT License.
+This project is  under the [MIT LICENSE](LICENSE)
